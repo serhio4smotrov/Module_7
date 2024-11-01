@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16465b48-bdc1-46d3-98ee-36021b58f6b5" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/module_7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,12 +51,15 @@
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
     "Python.module_7_4.executor": "Run",
+    "Python.module_7_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ser19\PycharmProjects\Module 7" />
+      <recent name="C:\Users\ser19\PycharmProjects\Module 7\Module_7_5" />
       <recent name="C:\Users\ser19\PycharmProjects\Module 7\Module_7_3" />
       <recent name="C:\Users\ser19\PycharmProjects\Module 7\Module 7_1" />
     </key>
@@ -117,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729886541457</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial">
+      <option name="closed" value="true" />
+      <created>1729956022161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729956022161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
